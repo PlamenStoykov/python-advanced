@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title></title>
+</head>
+<body>
+
+<div class="circle"></div>
+
+<div class="rectangle"></div>
+<div class="rectangle_two"></div>
+
+<div class="nose"></div>
+
+<div class="mouth"></div>
+
+<div class="eye_rec_one"></div>
+<div class="circle_ball"></div>
+
+<div class="eye_rec_two"></div>
+<div class="circle_ball_two"></div>
+
+<div class="pupil_one"></div>
+<div class="pupil_two"></div>
+
+
+</body>
+</html>
