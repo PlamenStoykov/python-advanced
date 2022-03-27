@@ -1,0 +1,7 @@
+n = int(input())
+collection = set()
+for i in range(n):
+    username = input()
+    collection.add(username)
+for user in collection:
+    print(user)
