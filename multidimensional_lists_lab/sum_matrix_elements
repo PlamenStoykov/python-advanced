@@ -1,0 +1,12 @@
+rows, cols = [int(i) for i in input().split(', ')]
+total = 0
+matrix = []
+for r in range(rows):
+    using = list(map(int, input().split(', ')))
+    total += sum(using)
+
+    matrix.append(using)
+print(total)
+print(matrix)
+
+

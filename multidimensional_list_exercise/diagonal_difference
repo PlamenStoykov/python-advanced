@@ -1,0 +1,14 @@
+n = int(input())
+total_primary = 0
+total_non_primary = 0
+square = []
+for i in range(n):
+    using = list(map(int, input().split()))
+    square.append(using)
+    for c in range(n):
+        if i == c:
+            total_primary += square[i][c]
+        if i + c == n - 1:
+            total_non_primary += square[i][c]
+
+print(abs(total_primary - total_non_primary))

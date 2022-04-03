@@ -1,0 +1,92 @@
+.circle {
+  height: 500px;
+  width: 500px;
+  background-color: red;
+  border-radius: 50%;
+}
+.rectangle {
+  height: 20px;
+  width: 100px;
+  background-color: black;
+  position: absolute;
+top: 15%;
+left: 6%;
+}
+.rectangle_two {
+  height: 20px;
+  width: 100px;
+  background-color: black;
+  position: absolute;
+top: 15%;
+left: 20%;
+}
+.nose {
+  height: 100px;
+  width: 30px;
+  background-color: yellow;
+  position: absolute;
+top: 30%;
+left: 16%;
+border-radius: 20%;
+}
+.mouth {
+  height: 40px;
+  width: 110px;
+  background-color: black;
+  position: absolute;
+top: 53%;
+left: 13%;
+border-radius: 20%;
+}
+.eye_rec_one {
+  height: 90px;
+  width: 135px;
+  background-color: white;
+position: absolute;
+left: 5%;
+top: 20%;
+}
+.circle_ball {
+  height: 110px;
+  width:135px;
+  background-color: white;
+  border-radius: 50%;
+position: absolute;
+left:5%;
+top: 25%;
+}
+.eye_rec_two {
+  height: 90px;
+  width: 135px;
+  background-color: white;
+position: absolute;
+left: 20%;
+top: 20%;
+}
+.circle_ball_two {
+  height: 110px;
+  width:135px;
+  background-color: white;
+  border-radius: 50%;
+position: absolute;
+left:20%;
+top: 25%;
+}
+.pupil_one {
+  height: 70px;
+  width:70px;
+  background-color: blue;
+  border-radius: 50%;
+position: absolute;
+left:7%;
+top: 28%;
+}
+.pupil_two {
+  height: 70px;
+  width:70px;
+  background-color: blue;
+  border-radius: 50%;
+position: absolute;
+left:22%;
+top: 28%;
+}
